@@ -1,0 +1,14 @@
+{
+  "name": "mucyo-joel-portfolio",
+  "version": "1.0.0",
+  "description": "Mucyo Joel's Personal Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server",
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
